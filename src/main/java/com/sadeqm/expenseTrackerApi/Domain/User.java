@@ -1,6 +1,7 @@
 package com.sadeqm.expenseTrackerApi.Domain;
 
 //user class entity
+// test
 public class User {
 	private Integer userId;
 	private String firstName;
